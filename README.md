@@ -7,4 +7,4 @@ SCLCO (Supply Chain Life Cycle Optimization) integrates LCA and SCO. SCLCO model
 The SCLCO model aims to propose a generic model formulation that enhances accessibility of LCA practitioners or researchers to SCM concepts and vice versa. Moreover, it opens up new opportunities for collaboration and knowledge exchange between these two, traditionally separate domains. As a result, it enhances the overall understanding and application of sustainability principles in supply chain decision-making.
 
 
-[1] Hülagü et al. (2023). Integrating Life Cycle Assessment into Supply Chain Optimization, submitted to: European Journal of Operational Research. 
+[1] Hülagü S., Dullaert W., Eruguz A.S., Heijungs R. & Inghels D. (2023). Integrating Life Cycle Assessment into Supply Chain Optimization, submitted to: European Journal of Operational Research. 
